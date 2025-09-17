@@ -37,13 +37,13 @@
         }
     ],
     "cpu": "1024",
-    "executionRoleArn": "arn:aws:iam::379402500969:role/LabRole",
+    "executionRoleArn": "arn:aws:iam::533267015219:role/LabRole",
     "family": "task-for-portfolio",
     "memory": "3072",
     "networkMode": "awsvpc",
     "placementConstraints": [],
-    "registeredAt": "2025-09-05T20:38:35.064Z",
-    "registeredBy": "arn:aws:sts::379402500969:assumed-role/voclabs/user4337284=Test_Student",
+    "registeredAt": "2025-09-17T20:45:36.724Z",
+    "registeredBy": "arn:aws:sts::533267015219:assumed-role/voclabs/user3792146=Sheshasaibaba_Gujjari",
     "requiresAttributes": [
         {
             "name": "com.amazonaws.ecs.capability.logging-driver.awslogs"
@@ -76,8 +76,8 @@
         "operatingSystemFamily": "LINUX"
     },
     "status": "ACTIVE",
-    "taskDefinitionArn": "arn:aws:ecs:us-east-1:379402500969:task-definition/task-for-portfolio:1",
-    "taskRoleArn": "arn:aws:iam::379402500969:role/LabRole",
+    "taskDefinitionArn": "arn:aws:ecs:us-east-1:533267015219:task-definition/task-for-portfolio:1",
+    "taskRoleArn": "arn:aws:iam::533267015219:role/LabRole",
     "volumes": [],
     "tags": []
 }
